@@ -2,7 +2,7 @@
 
 <br/>
 
-Inorder to run this application-
+Inorder to run this application:
 -Fork the repository by clicking on fork button.<br/>
 -Then click on code and copy the url.<br/>
 -Open terminal in your computer and type "git clone the_url".<br/>
